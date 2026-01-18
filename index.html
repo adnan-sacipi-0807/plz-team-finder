@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0b1220" />
+  <meta name="description" content="PLZ eingeben und zuständiges Team/RAV anzeigen (Offline verfügbar)." />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./icons/icon-192.png" />
+  <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+  <link rel="stylesheet" href="./styles.css" />
+  <title>PLZ Team Finder</title>
+</head>
+<body>
+  <main class="app">
+    <header class="header">
+      <div class="logo" aria-hidden="true">
+        <img src="./icons/icon-192.png" alt="" />
+      </div>
+      <h1>PLZ Team Finder</h1>
+      <div class="subtitle">ALK Scanning</div>
+    </header>
+
+    <section class="card input-card">
+      <label class="sr-only" for="plzInput">PLZ</label>
+      <input id="plzInput" inputmode="numeric" autocomplete="off" maxlength="4" placeholder="PLZ eingeben..." />
+      <div class="hint" id="hint"></div>
+    </section>
+
+    <section class="card result-card" id="resultCard" hidden>
+      <div class="result-label" id="resultLabel">TEAM FÜR PLZ</div>
+      <div class="team" id="teamText">—</div>
+      <button class="rav-pill" id="ravPill" type="button">—</button>
+      <div class="ort" id="ortText"></div>
+    </section>
+
+    <footer class="footer card">
+      <div class="footer-line">
+        <span id="offlineStatus">Offline verfügbar</span>
+        <span class="sep">|</span>
+        <span id="countStatus">…</span>
+      </div>
+      <div class="footer-sub">Made for ALK Scanning</div>
+      <button class="install" id="installBtn" hidden>Als App installieren</button>
+    </footer>
+  </main>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,2962 @@
+{
+  "generated": "2026-01-18",
+  "count": 322,
+  "teams": {
+    "2A": "#FF69B4",
+    "2B": "#90EE90",
+    "2C": "#FF00FF",
+    "3A": "#D3D3D3",
+    "3B": "#FFA500",
+    "3C": "#87CEEB",
+    "4A": "#C19A6B",
+    "4B": "#8B00FF"
+  },
+  "items": [
+    {
+      "plz": "8000",
+      "team": "2B",
+      "teamColor": "#90EE90",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8001",
+      "team": "2B",
+      "teamColor": "#90EE90",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8002",
+      "team": "2B",
+      "teamColor": "#90EE90",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8003",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8004",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8005",
+      "team": "2B",
+      "teamColor": "#90EE90",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8006",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8008",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8010",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8011",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich Mülligen"
+      ]
+    },
+    {
+      "plz": "8012",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8020",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8021",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich 1"
+      ]
+    },
+    {
+      "plz": "8022",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8023",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8024",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8026",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8027",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8030",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8031",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8032",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8033",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8034",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8035",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8036",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8037",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8038",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8039",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8040",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8041",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8042",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8043",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8044",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich",
+        "Gockhausen"
+      ]
+    },
+    {
+      "plz": "8045",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8046",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Zürich Schärenmoosstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8047",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8048",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8049",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8050",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Zürich Schärenmoosstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8051",
+      "team": "2B",
+      "teamColor": "#90EE90",
+      "rav": "RAV Zürich Nansenstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8052",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Zürich Schärenmoosstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8053",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8055",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8057",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8058",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Opfikon-Glattbrugg",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8060",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Opfikon-Glattbrugg",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8061",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Zürich Schärenmoosstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8063",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8064",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8065",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Zürich Schärenmoosstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8066",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8068",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8070",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8071",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich CS PZ"
+      ]
+    },
+    {
+      "plz": "8074",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich Voice Publishing"
+      ]
+    },
+    {
+      "plz": "8075",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8079",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Zürich Schärenmoosstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8080",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich 80"
+      ]
+    },
+    {
+      "plz": "8081",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich Helsana"
+      ]
+    },
+    {
+      "plz": "8085",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich Versicherung"
+      ]
+    },
+    {
+      "plz": "8086",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Zürich Reader's Digest"
+      ]
+    },
+    {
+      "plz": "8087",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8088",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8090",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8091",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8092",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich ETH-Zentrum"
+      ]
+    },
+    {
+      "plz": "8093",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich ETH-Hönggerberg"
+      ]
+    },
+    {
+      "plz": "8096",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich IBRS local"
+      ]
+    },
+    {
+      "plz": "8098",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Zürich Staffelstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8099",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Zürich"
+      ]
+    },
+    {
+      "plz": "8102",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Dietikon",
+      "orte": [
+        "Oberengstringen"
+      ]
+    },
+    {
+      "plz": "8103",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Dietikon",
+      "orte": [
+        "Unterengstringen"
+      ]
+    },
+    {
+      "plz": "8104",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Dietikon",
+      "orte": [
+        "Weiningen ZH"
+      ]
+    },
+    {
+      "plz": "8105",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Regensdorf",
+        "Watt"
+      ]
+    },
+    {
+      "plz": "8106",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Adlikon b. Regensdorf"
+      ]
+    },
+    {
+      "plz": "8107",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Buchs ZH"
+      ]
+    },
+    {
+      "plz": "8108",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Dällikon"
+      ]
+    },
+    {
+      "plz": "8112",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Otelfingen"
+      ]
+    },
+    {
+      "plz": "8113",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Boppelsen"
+      ]
+    },
+    {
+      "plz": "8114",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Dänikon ZH"
+      ]
+    },
+    {
+      "plz": "8115",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Hüttikon"
+      ]
+    },
+    {
+      "plz": "8117",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Fällanden"
+      ]
+    },
+    {
+      "plz": "8118",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Pfaffhausen"
+      ]
+    },
+    {
+      "plz": "8121",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Benglen"
+      ]
+    },
+    {
+      "plz": "8122",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Binz"
+      ]
+    },
+    {
+      "plz": "8123",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Ebmatingen"
+      ]
+    },
+    {
+      "plz": "8124",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Maur"
+      ]
+    },
+    {
+      "plz": "8125",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Zollikerberg"
+      ]
+    },
+    {
+      "plz": "8126",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Zumikon"
+      ]
+    },
+    {
+      "plz": "8127",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Forch"
+      ]
+    },
+    {
+      "plz": "8130",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Zumikon Y. Rocher"
+      ]
+    },
+    {
+      "plz": "8132",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Egg b. Zürich",
+        "Hinteregg"
+      ]
+    },
+    {
+      "plz": "8133",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Esslingen"
+      ]
+    },
+    {
+      "plz": "8134",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Adliswil",
+        "Adliswil 1"
+      ]
+    },
+    {
+      "plz": "8135",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Sihlwald",
+        "Sihlbrugg Station",
+        "Langnau am Albis"
+      ]
+    },
+    {
+      "plz": "8136",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Gattikon"
+      ]
+    },
+    {
+      "plz": "8142",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Uitikon Waldegg"
+      ]
+    },
+    {
+      "plz": "8143",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Stallikon",
+        "Uetliberg"
+      ]
+    },
+    {
+      "plz": "8152",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Opfikon-Glattbrugg",
+      "orte": [
+        "Glattbrugg",
+        "Glattpark (Opfikon)",
+        "Opfikon"
+      ]
+    },
+    {
+      "plz": "8153",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Opfikon-Glattbrugg",
+      "orte": [
+        "Rümlang"
+      ]
+    },
+    {
+      "plz": "8154",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Oberglatt ZH"
+      ]
+    },
+    {
+      "plz": "8155",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Nassenwil",
+        "Niederhasli"
+      ]
+    },
+    {
+      "plz": "8156",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Oberhasli"
+      ]
+    },
+    {
+      "plz": "8157",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Dielsdorf"
+      ]
+    },
+    {
+      "plz": "8158",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Regensberg"
+      ]
+    },
+    {
+      "plz": "8162",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Steinmaur",
+        "Sünikon"
+      ]
+    },
+    {
+      "plz": "8164",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Bachs"
+      ]
+    },
+    {
+      "plz": "8165",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Oberweningen",
+        "Schleinikon",
+        "Schöfflisdorf"
+      ]
+    },
+    {
+      "plz": "8166",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Niederweningen"
+      ]
+    },
+    {
+      "plz": "8172",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Niederglatt ZH"
+      ]
+    },
+    {
+      "plz": "8173",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Neerach"
+      ]
+    },
+    {
+      "plz": "8174",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Stadel b. Niederglatt"
+      ]
+    },
+    {
+      "plz": "8175",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Windlach"
+      ]
+    },
+    {
+      "plz": "8180",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Bülach"
+      ]
+    },
+    {
+      "plz": "8181",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Höri"
+      ]
+    },
+    {
+      "plz": "8182",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Hochfelden"
+      ]
+    },
+    {
+      "plz": "8183",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Bülach Dist Ba"
+      ]
+    },
+    {
+      "plz": "8184",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Bachenbülach"
+      ]
+    },
+    {
+      "plz": "8185",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Winkel"
+      ]
+    },
+    {
+      "plz": "8186",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Bülach"
+      ]
+    },
+    {
+      "plz": "8187",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Regensdorf",
+      "orte": [
+        "Weiach"
+      ]
+    },
+    {
+      "plz": "8192",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Glattfelden",
+        "Zweidlen"
+      ]
+    },
+    {
+      "plz": "8193",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Eglisau"
+      ]
+    },
+    {
+      "plz": "8194",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Hüntwangen"
+      ]
+    },
+    {
+      "plz": "8195",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Wasterkingen"
+      ]
+    },
+    {
+      "plz": "8196",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Wil ZH"
+      ]
+    },
+    {
+      "plz": "8197",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Rafz"
+      ]
+    },
+    {
+      "plz": "8198",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Opfikon-Glattbrugg",
+      "orte": [
+        "Rümlang Voice Pub."
+      ]
+    },
+    {
+      "plz": "8212",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Nohl"
+      ]
+    },
+    {
+      "plz": "8245",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Feuerthalen"
+      ]
+    },
+    {
+      "plz": "8246",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Langwiesen"
+      ]
+    },
+    {
+      "plz": "8247",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Flurlingen"
+      ]
+    },
+    {
+      "plz": "8248",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Uhwiesen"
+      ]
+    },
+    {
+      "plz": "8301",
+      "team": "2B",
+      "teamColor": "#90EE90",
+      "rav": "RAV Zürich Nansenstrasse",
+      "orte": [
+        "Glattzentrum"
+      ]
+    },
+    {
+      "plz": "8302",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Opfikon-Glattbrugg",
+      "orte": [
+        "Kloten"
+      ]
+    },
+    {
+      "plz": "8303",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Opfikon-Glattbrugg",
+      "orte": [
+        "Bassersdorf"
+      ]
+    },
+    {
+      "plz": "8304",
+      "team": "2B",
+      "teamColor": "#90EE90",
+      "rav": "RAV Zürich Nansenstrasse",
+      "orte": [
+        "Wallisellen"
+      ]
+    },
+    {
+      "plz": "8305",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Dietlikon"
+      ]
+    },
+    {
+      "plz": "8306",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Brüttisellen"
+      ]
+    },
+    {
+      "plz": "8307",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Effretikon",
+        "Ottikon b. Kemptthal"
+      ]
+    },
+    {
+      "plz": "8308",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Agasul",
+        "Illnau"
+      ]
+    },
+    {
+      "plz": "8309",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Opfikon-Glattbrugg",
+      "orte": [
+        "Nürensdorf"
+      ]
+    },
+    {
+      "plz": "8310",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Grafstal",
+        "Kemptthal"
+      ]
+    },
+    {
+      "plz": "8311",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Brütten"
+      ]
+    },
+    {
+      "plz": "8312",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Winterberg ZH"
+      ]
+    },
+    {
+      "plz": "8314",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Kyburg"
+      ]
+    },
+    {
+      "plz": "8315",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Lindau"
+      ]
+    },
+    {
+      "plz": "8317",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Tagelswangen"
+      ]
+    },
+    {
+      "plz": "8320",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Fehraltorf"
+      ]
+    },
+    {
+      "plz": "8322",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Gündisau",
+        "Madetswil"
+      ]
+    },
+    {
+      "plz": "8325",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Effretikon Dist Ba"
+      ]
+    },
+    {
+      "plz": "8330",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Pfäffikon ZH"
+      ]
+    },
+    {
+      "plz": "8331",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Auslikon"
+      ]
+    },
+    {
+      "plz": "8332",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Rumlikon",
+        "Russikon"
+      ]
+    },
+    {
+      "plz": "8335",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Hittnau"
+      ]
+    },
+    {
+      "plz": "8340",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Hinwil"
+      ]
+    },
+    {
+      "plz": "8342",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Wernetshausen"
+      ]
+    },
+    {
+      "plz": "8343",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Hinwil Dist Ba"
+      ]
+    },
+    {
+      "plz": "8344",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Bäretswil"
+      ]
+    },
+    {
+      "plz": "8345",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Adetswil"
+      ]
+    },
+    {
+      "plz": "8352",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Elsau",
+        "Ricketwil (Winterthur)"
+      ]
+    },
+    {
+      "plz": "8353",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Elgg"
+      ]
+    },
+    {
+      "plz": "8354",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Hofstetten ZH"
+      ]
+    },
+    {
+      "plz": "8355",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Aadorf"
+      ]
+    },
+    {
+      "plz": "8400",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8401",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8402",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8403",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8404",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Reutlingen (Winterthur)",
+        "Stadel (Winterthur)",
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8405",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8406",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8408",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8409",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8410",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8411",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Winterthur"
+      ]
+    },
+    {
+      "plz": "8412",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Aesch (Neftenbach)",
+        "Hünikon (Neftenbach)",
+        "Riet (Neftenbach)"
+      ]
+    },
+    {
+      "plz": "8413",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Neftenbach"
+      ]
+    },
+    {
+      "plz": "8414",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Buch am Irchel"
+      ]
+    },
+    {
+      "plz": "8415",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Berg am Irchel",
+        "Gräslikon"
+      ]
+    },
+    {
+      "plz": "8416",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Flaach"
+      ]
+    },
+    {
+      "plz": "8418",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Schlatt b. Winterthur"
+      ]
+    },
+    {
+      "plz": "8421",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Dättlikon"
+      ]
+    },
+    {
+      "plz": "8422",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Pfungen"
+      ]
+    },
+    {
+      "plz": "8423",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Embrach-Embraport"
+      ]
+    },
+    {
+      "plz": "8424",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Embrach"
+      ]
+    },
+    {
+      "plz": "8425",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Oberembrach"
+      ]
+    },
+    {
+      "plz": "8426",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Lufingen"
+      ]
+    },
+    {
+      "plz": "8427",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Freienstein",
+        "Rorbas",
+        "Rorbas-Freienstein"
+      ]
+    },
+    {
+      "plz": "8428",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Bülach",
+      "orte": [
+        "Teufen ZH"
+      ]
+    },
+    {
+      "plz": "8442",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Hettlingen"
+      ]
+    },
+    {
+      "plz": "8444",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Henggart"
+      ]
+    },
+    {
+      "plz": "8447",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Dachsen"
+      ]
+    },
+    {
+      "plz": "8450",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Andelfingen"
+      ]
+    },
+    {
+      "plz": "8451",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Kleinandelfingen"
+      ]
+    },
+    {
+      "plz": "8452",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Adlikon b. Andelfingen"
+      ]
+    },
+    {
+      "plz": "8453",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Alten"
+      ]
+    },
+    {
+      "plz": "8457",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Humlikon"
+      ]
+    },
+    {
+      "plz": "8458",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Dorf"
+      ]
+    },
+    {
+      "plz": "8459",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Volken"
+      ]
+    },
+    {
+      "plz": "8460",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Marthalen"
+      ]
+    },
+    {
+      "plz": "8461",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Oerlingen"
+      ]
+    },
+    {
+      "plz": "8462",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Rheinau"
+      ]
+    },
+    {
+      "plz": "8463",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Benken ZH"
+      ]
+    },
+    {
+      "plz": "8464",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Ellikon am Rhein"
+      ]
+    },
+    {
+      "plz": "8465",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Rudolfingen",
+        "Wildensbuch"
+      ]
+    },
+    {
+      "plz": "8466",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Trüllikon"
+      ]
+    },
+    {
+      "plz": "8467",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Truttikon"
+      ]
+    },
+    {
+      "plz": "8468",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Guntalingen",
+        "Waltalingen"
+      ]
+    },
+    {
+      "plz": "8471",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Bänk (Dägerlen)",
+        "Berg (Dägerlen)",
+        "Oberwil (Dägerlen)",
+        "Rutschwil (Dägerlen)"
+      ]
+    },
+    {
+      "plz": "8472",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Seuzach"
+      ]
+    },
+    {
+      "plz": "8474",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Dinhard"
+      ]
+    },
+    {
+      "plz": "8475",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Ossingen"
+      ]
+    },
+    {
+      "plz": "8476",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Unterstammheim"
+      ]
+    },
+    {
+      "plz": "8477",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Oberstammheim"
+      ]
+    },
+    {
+      "plz": "8478",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Thalheim an der Thur"
+      ]
+    },
+    {
+      "plz": "8479",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Altikon"
+      ]
+    },
+    {
+      "plz": "8482",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Sennhof (Winterthur)"
+      ]
+    },
+    {
+      "plz": "8483",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Kollbrunn"
+      ]
+    },
+    {
+      "plz": "8484",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Neschwil",
+        "Theilingen",
+        "Weisslingen"
+      ]
+    },
+    {
+      "plz": "8486",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Rikon im Tösstal"
+      ]
+    },
+    {
+      "plz": "8487",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Rämismühle",
+        "Zell ZH"
+      ]
+    },
+    {
+      "plz": "8488",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Turbenthal"
+      ]
+    },
+    {
+      "plz": "8489",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Wildberg"
+      ]
+    },
+    {
+      "plz": "8492",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Wila"
+      ]
+    },
+    {
+      "plz": "8493",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Saland"
+      ]
+    },
+    {
+      "plz": "8494",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Bauma"
+      ]
+    },
+    {
+      "plz": "8495",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Schmidrüti"
+      ]
+    },
+    {
+      "plz": "8496",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Steg im Tösstal"
+      ]
+    },
+    {
+      "plz": "8497",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Fischenthal"
+      ]
+    },
+    {
+      "plz": "8498",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Gibswil"
+      ]
+    },
+    {
+      "plz": "8499",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Sternenberg"
+      ]
+    },
+    {
+      "plz": "8523",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Hagenbuch ZH"
+      ]
+    },
+    {
+      "plz": "8542",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Wiesendangen"
+      ]
+    },
+    {
+      "plz": "8543",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Bertschikon",
+        "Gundetswil"
+      ]
+    },
+    {
+      "plz": "8544",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Attikon"
+      ]
+    },
+    {
+      "plz": "8545",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Rickenbach Sulz",
+        "Rickenbach ZH"
+      ]
+    },
+    {
+      "plz": "8546",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Islikon",
+        "Menzengrüt"
+      ]
+    },
+    {
+      "plz": "8548",
+      "team": "3A",
+      "teamColor": "#D3D3D3",
+      "rav": "RAV Winterthur",
+      "orte": [
+        "Ellikon an der Thur"
+      ]
+    },
+    {
+      "plz": "8600",
+      "team": "2B",
+      "teamColor": "#90EE90",
+      "rav": "RAV Zürich Nansenstrasse",
+      "orte": [
+        "Dübendorf",
+        "Dübendorf 1"
+      ]
+    },
+    {
+      "plz": "8602",
+      "team": "4A",
+      "teamColor": "#C19A6B",
+      "rav": "RAV Fehraltorf",
+      "orte": [
+        "Wangen b. Dübendorf"
+      ]
+    },
+    {
+      "plz": "8603",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Schwerzenbach"
+      ]
+    },
+    {
+      "plz": "8604",
+      "team": "2B",
+      "teamColor": "#90EE90",
+      "rav": "RAV Zürich Nansenstrasse",
+      "orte": [
+        "Volketswil"
+      ]
+    },
+    {
+      "plz": "8605",
+      "team": "2B",
+      "teamColor": "#90EE90",
+      "rav": "RAV Zürich Nansenstrasse",
+      "orte": [
+        "Gutenswil"
+      ]
+    },
+    {
+      "plz": "8606",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Greifensee",
+        "Nänikon"
+      ]
+    },
+    {
+      "plz": "8607",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Aathal-Seegräben"
+      ]
+    },
+    {
+      "plz": "8608",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Bubikon"
+      ]
+    },
+    {
+      "plz": "8609",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Schwerzenbach"
+      ]
+    },
+    {
+      "plz": "8610",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Uster",
+        "Uster 1"
+      ]
+    },
+    {
+      "plz": "8612",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Uster 2"
+      ]
+    },
+    {
+      "plz": "8613",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Uster 3"
+      ]
+    },
+    {
+      "plz": "8614",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Bertschikon (Gossau ZH)",
+        "Sulzbach"
+      ]
+    },
+    {
+      "plz": "8615",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Freudwil",
+        "Wermatswil"
+      ]
+    },
+    {
+      "plz": "8616",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Riedikon"
+      ]
+    },
+    {
+      "plz": "8617",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Mönchaltorf"
+      ]
+    },
+    {
+      "plz": "8618",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Uster",
+      "orte": [
+        "Oetwil am See"
+      ]
+    },
+    {
+      "plz": "8620",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Wetzikon ZH"
+      ]
+    },
+    {
+      "plz": "8621",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Wetzikon ZH 4"
+      ]
+    },
+    {
+      "plz": "8622",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Wetzikon ZH"
+      ]
+    },
+    {
+      "plz": "8623",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Wetzikon ZH"
+      ]
+    },
+    {
+      "plz": "8624",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Grüt (Gossau ZH)"
+      ]
+    },
+    {
+      "plz": "8625",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Gossau ZH"
+      ]
+    },
+    {
+      "plz": "8626",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Ottikon (Gossau ZH)"
+      ]
+    },
+    {
+      "plz": "8627",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Grüningen"
+      ]
+    },
+    {
+      "plz": "8630",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Rüti ZH"
+      ]
+    },
+    {
+      "plz": "8632",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Tann"
+      ]
+    },
+    {
+      "plz": "8633",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Wolfhausen"
+      ]
+    },
+    {
+      "plz": "8634",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Hombrechtikon"
+      ]
+    },
+    {
+      "plz": "8635",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Dürnten"
+      ]
+    },
+    {
+      "plz": "8636",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Wald ZH"
+      ]
+    },
+    {
+      "plz": "8637",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Laupen ZH"
+      ]
+    },
+    {
+      "plz": "8639",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Rüti",
+      "orte": [
+        "Faltigberg"
+      ]
+    },
+    {
+      "plz": "8700",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Küsnacht ZH"
+      ]
+    },
+    {
+      "plz": "8702",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Zollikon"
+      ]
+    },
+    {
+      "plz": "8703",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Erlenbach ZH"
+      ]
+    },
+    {
+      "plz": "8704",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Herrliberg"
+      ]
+    },
+    {
+      "plz": "8706",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Meilen"
+      ]
+    },
+    {
+      "plz": "8707",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Uetikon am See"
+      ]
+    },
+    {
+      "plz": "8708",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Männedorf"
+      ]
+    },
+    {
+      "plz": "8712",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Stäfa"
+      ]
+    },
+    {
+      "plz": "8713",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Uerikon"
+      ]
+    },
+    {
+      "plz": "8714",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Meilen",
+      "orte": [
+        "Feldbach"
+      ]
+    },
+    {
+      "plz": "8800",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Thalwil"
+      ]
+    },
+    {
+      "plz": "8801",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Thalwil"
+      ]
+    },
+    {
+      "plz": "8802",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Kilchberg ZH"
+      ]
+    },
+    {
+      "plz": "8803",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Rüschlikon"
+      ]
+    },
+    {
+      "plz": "8804",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Au ZH"
+      ]
+    },
+    {
+      "plz": "8805",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Richterswil"
+      ]
+    },
+    {
+      "plz": "8810",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Horgen",
+        "Horgen 1"
+      ]
+    },
+    {
+      "plz": "8812",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Horgen"
+      ]
+    },
+    {
+      "plz": "8813",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Horgen"
+      ]
+    },
+    {
+      "plz": "8815",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Horgenberg"
+      ]
+    },
+    {
+      "plz": "8816",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Hirzel"
+      ]
+    },
+    {
+      "plz": "8818",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Horgen Dist Ba"
+      ]
+    },
+    {
+      "plz": "8820",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Wädenswil"
+      ]
+    },
+    {
+      "plz": "8824",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Schönenberg ZH"
+      ]
+    },
+    {
+      "plz": "8825",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Hütten"
+      ]
+    },
+    {
+      "plz": "8833",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Samstagern"
+      ]
+    },
+    {
+      "plz": "8901",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Dietikon",
+      "orte": [
+        "Urdorf"
+      ]
+    },
+    {
+      "plz": "8902",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Dietikon",
+      "orte": [
+        "Urdorf"
+      ]
+    },
+    {
+      "plz": "8903",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Birmensdorf ZH"
+      ]
+    },
+    {
+      "plz": "8904",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Aesch ZH"
+      ]
+    },
+    {
+      "plz": "8906",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Bonstetten"
+      ]
+    },
+    {
+      "plz": "8907",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Wettswil"
+      ]
+    },
+    {
+      "plz": "8908",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Hedingen"
+      ]
+    },
+    {
+      "plz": "8909",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Zwillikon"
+      ]
+    },
+    {
+      "plz": "8910",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Affoltern am Albis"
+      ]
+    },
+    {
+      "plz": "8911",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Rifferswil"
+      ]
+    },
+    {
+      "plz": "8912",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Obfelden"
+      ]
+    },
+    {
+      "plz": "8913",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Ottenbach"
+      ]
+    },
+    {
+      "plz": "8914",
+      "team": "2C",
+      "teamColor": "#FF00FF",
+      "rav": "RAV Zürich Lagerstrasse",
+      "orte": [
+        "Aeugst am Albis",
+        "Aeugstertal"
+      ]
+    },
+    {
+      "plz": "8915",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Hausen am Albis"
+      ]
+    },
+    {
+      "plz": "8925",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Ebertswil"
+      ]
+    },
+    {
+      "plz": "8926",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Hauptikon",
+        "Kappel am Albis",
+        "Uerzlikon"
+      ]
+    },
+    {
+      "plz": "8932",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Mettmenstetten"
+      ]
+    },
+    {
+      "plz": "8933",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Maschwanden"
+      ]
+    },
+    {
+      "plz": "8934",
+      "team": "3B",
+      "teamColor": "#FFA500",
+      "rav": "RAV Zürich Hardturmstrasse",
+      "orte": [
+        "Knonau"
+      ]
+    },
+    {
+      "plz": "8942",
+      "team": "3C",
+      "teamColor": "#87CEEB",
+      "rav": "RAV Thalwil",
+      "orte": [
+        "Oberrieden"
+      ]
+    },
+    {
+      "plz": "8951",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Dietikon",
+      "orte": [
+        "Fahrweid"
+      ]
+    },
+    {
+      "plz": "8952",
+      "team": "2A",
+      "teamColor": "#FF69B4",
+      "rav": "RAV Zürich Vulkanstrasse",
+      "orte": [
+        "Schlieren"
+      ]
+    },
+    {
+      "plz": "8953",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Dietikon",
+      "orte": [
+        "Dietikon",
+        "Dietikon 1"
+      ]
+    },
+    {
+      "plz": "8954",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Dietikon",
+      "orte": [
+        "Geroldswil"
+      ]
+    },
+    {
+      "plz": "8955",
+      "team": "4B",
+      "teamColor": "#8B00FF",
+      "rav": "RAV Dietikon",
+      "orte": [
+        "Oetwil an der Limmat"
+      ]
+    }
+  ]
+}
