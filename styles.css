@@ -160,6 +160,11 @@ h1{
   box-shadow: 0 16px 46px rgba(0,229,255,0.22);
 }
 .install:active{ transform: translateY(1px); }
+.footer-powered{
+  margin: 16px 0 0;
+  color: rgba(240,248,255,0.50);
+  font-size: 13px;
+}
 .sr-only{
   position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0;
 }
