@@ -90,6 +90,8 @@ function onInput(){
 
   setHint("");
   showResult(entry, plz);
+  plzInput.value = "";
+  plzInput.focus();
 }
 
 function registerSW(){
