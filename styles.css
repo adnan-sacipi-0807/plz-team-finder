@@ -77,7 +77,7 @@ h1{
   border:2px solid rgba(0,229,255,0.55);
   outline:none;
   padding: 0 22px;
-  font-size: 32px;
+  font-size: 16px;
   letter-spacing: 0.5px;
   color: var(--text);
   background: rgba(255,255,255,0.06);
