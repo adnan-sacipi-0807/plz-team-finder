@@ -92,6 +92,9 @@ function onInput(){
   showResult(entry, plz);
   plzInput.value = "";
   plzInput.focus();
+  setTimeout(() => {
+    resultCard.scrollIntoView({ behavior: "smooth", block: "center" });
+  }, 100);
 }
 
 function registerSW(){
