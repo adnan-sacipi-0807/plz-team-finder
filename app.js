@@ -13,12 +13,23 @@ const TEAM_COLORS = {
   "4B": "#9370DB", // Violett
 };
 
+const ZAHLSTELLE_MAP = {
+  "2A": "002",
+  "2B": "004",
+  "2C": "005",
+  "3A": "006",
+  "3B": "007",
+  "3C": "008",
+  "4A": "010",
+  "4B": "011"
+};
 
 const plzInput = $("plzInput");
 const hint = $("hint");
 const resultCard = $("resultCard");
 const resultLabel = $("resultLabel");
 const teamText = $("teamText");
+const zahlstelleText = $("zahlstelleText");
 const ravPill = $("ravPill");
 const ortText = $("ortText");
 const countStatus = $("countStatus");
@@ -43,6 +54,15 @@ function showResult(entry, plz){
   const color = TEAM_COLORS[entry.team] || entry.teamColor || "#00e5ff";
   teamText.style.color = color;
   teamText.style.textShadow = `0 0 24px ${color}, 0 18px 60px rgba(0,0,0,0.45)`;
+
+  const zs = ZAHLSTELLE_MAP[entry.team];
+  if (zs) {
+    zahlstelleText.textContent = `Zahlstelle ${zs}`;
+    zahlstelleText.hidden = false;
+  } else {
+    zahlstelleText.hidden = true;
+  }
+
   ravPill.textContent = entry.rav;
 
   const orts = Array.isArray(entry.orte) ? entry.orte : [];

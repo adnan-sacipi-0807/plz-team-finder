@@ -43,7 +43,7 @@
       "plz": "8003",
       "team": "3C",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "RAV Vulkanstrasse",
       "orte": [
         "Zürich"
       ]
@@ -79,7 +79,7 @@
       "plz": "8008",
       "team": "3C",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "RAV Vulkanstrasse",
       "orte": [
         "Zürich"
       ]
@@ -241,7 +241,7 @@
       "plz": "8037",
       "team": "3C",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "RAV Hardturmstrasse",
       "orte": [
         "Zürich"
       ]
@@ -250,7 +250,7 @@
       "plz": "8038",
       "team": "3C",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "RAV Lagerstrasse",
       "orte": [
         "Zürich"
       ]
@@ -277,7 +277,7 @@
       "plz": "8041",
       "team": "3C",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "RAV Lagerstrasse",
       "orte": [
         "Zürich"
       ]
@@ -905,7 +905,7 @@
       "plz": "8152",
       "team": "4A",
       "teamColor": "#F5DEB3",
-      "rav": "RAV Opfikon-Glattbrugg",
+      "rav": "RAV Nansenstrasse",
       "orte": [
         "Glattbrugg",
         "Glattpark (Opfikon)",
@@ -916,7 +916,7 @@
       "plz": "8153",
       "team": "4A",
       "teamColor": "#F5DEB3",
-      "rav": "RAV Opfikon-Glattbrugg",
+      "rav": "RAV Nansenstrasse",
       "orte": [
         "Rümlang"
       ]
@@ -1236,7 +1236,7 @@
       "plz": "8302",
       "team": "4A",
       "teamColor": "#F5DEB3",
-      "rav": "RAV Opfikon-Glattbrugg",
+      "rav": "RAV Winterthur",
       "orte": [
         "Kloten"
       ]
@@ -1245,7 +1245,7 @@
       "plz": "8303",
       "team": "4A",
       "teamColor": "#F5DEB3",
-      "rav": "RAV Opfikon-Glattbrugg",
+      "rav": "RAV Winterthur",
       "orte": [
         "Bassersdorf"
       ]
@@ -1301,7 +1301,7 @@
       "plz": "8309",
       "team": "4A",
       "teamColor": "#F5DEB3",
-      "rav": "RAV Opfikon-Glattbrugg",
+      "rav": "RAV Winterthur",
       "orte": [
         "Nürensdorf"
       ]
