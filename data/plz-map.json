@@ -140,9 +140,9 @@
     },
     {
       "plz": "8023",
-      "team": "3C",
+      "team": "-",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Zürich"
       ]
@@ -212,9 +212,9 @@
     },
     {
       "plz": "8034",
-      "team": "3C",
+      "team": "-",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Zürich"
       ]
@@ -230,9 +230,9 @@
     },
     {
       "plz": "8036",
-      "team": "3C",
+      "team": "-",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Zürich"
       ]
@@ -257,18 +257,18 @@
     },
     {
       "plz": "8039",
-      "team": "3C",
+      "team": "-",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Zürich"
       ]
     },
     {
       "plz": "8040",
-      "team": "3C",
+      "team": "-",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Zürich"
       ]
@@ -411,18 +411,18 @@
     },
     {
       "plz": "8058",
-      "team": "4A",
+      "team": "-",
       "teamColor": "#F5DEB3",
-      "rav": "RAV Opfikon-Glattbrugg",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Zürich"
       ]
     },
     {
       "plz": "8060",
-      "team": "4A",
+      "team": "-",
       "teamColor": "#F5DEB3",
-      "rav": "RAV Opfikon-Glattbrugg",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Zürich"
       ]
@@ -438,9 +438,9 @@
     },
     {
       "plz": "8063",
-      "team": "3C",
+      "team": "-",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Zürich"
       ]
@@ -573,18 +573,18 @@
     },
     {
       "plz": "8088",
-      "team": "3C",
+      "team": "-",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Zürich"
       ]
     },
     {
       "plz": "8090",
-      "team": "3C",
+      "team": "-",
       "teamColor": "#4169E1",
-      "rav": "RAV Zürich Staffelstrasse",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Zürich"
       ]
@@ -1171,9 +1171,9 @@
     },
     {
       "plz": "8198",
-      "team": "4A",
+      "team": "-",
       "teamColor": "#F5DEB3",
-      "rav": "RAV Opfikon-Glattbrugg",
+      "rav": "Kein RAV zugeteilt",
       "orte": [
         "Rümlang Voice Pub."
       ]

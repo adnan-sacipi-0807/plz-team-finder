@@ -101,11 +101,14 @@ function onInput(){
     return;
   }
 
-  const entry = dataIndex.get(plz);
-  if(!entry){
-    setHint("PLZ nicht gefunden.", true);
-    hideResult();
-    return;
+  let entry = dataIndex.get(plz);
+  if(!entry || !entry.team || entry.team === "-"){
+    entry = {
+      team: entry && entry.team ? entry.team : "-",
+      teamColor: "#808080",
+      rav: "Kein RAV zugeteilt",
+      orte: entry && entry.orte ? entry.orte : []
+    };
   }
 
   setHint("");
