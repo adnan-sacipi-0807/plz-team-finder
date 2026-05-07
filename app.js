@@ -57,7 +57,7 @@ function showResult(entry, plz){
 
   const zs = ZAHLSTELLE_MAP[entry.team];
   if (zs) {
-    zahlstelleText.textContent = `Zahlstelle ${zs}`;
+    zahlstelleText.textContent = `Teamcode SAP ${zs}`;
     zahlstelleText.hidden = false;
   } else {
     zahlstelleText.hidden = true;
