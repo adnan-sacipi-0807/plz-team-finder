@@ -8,8 +8,7 @@
     "3A": "#D3D3D3",
     "3B": "#FFA500",
     "3C": "#4169E1",
-    "4A": "#F5DEB3",
-    "4B": "#9370DB"
+    "4A/B": "#9370DB"
   },
   "items": [
     {
@@ -321,8 +320,8 @@
     },
     {
       "plz": "8046",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Zürich Schärenmoosstrasse",
       "orte": [
         "Zürich"
@@ -357,8 +356,8 @@
     },
     {
       "plz": "8050",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Zürich Schärenmoosstrasse",
       "orte": [
         "Zürich"
@@ -375,8 +374,8 @@
     },
     {
       "plz": "8052",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Zürich Schärenmoosstrasse",
       "orte": [
         "Zürich"
@@ -429,8 +428,8 @@
     },
     {
       "plz": "8061",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Zürich Schärenmoosstrasse",
       "orte": [
         "Zürich"
@@ -456,8 +455,8 @@
     },
     {
       "plz": "8065",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Zürich Schärenmoosstrasse",
       "orte": [
         "Zürich"
@@ -519,8 +518,8 @@
     },
     {
       "plz": "8079",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Zürich Schärenmoosstrasse",
       "orte": [
         "Zürich"
@@ -645,7 +644,7 @@
     },
     {
       "plz": "8102",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Dietikon",
       "orte": [
@@ -654,7 +653,7 @@
     },
     {
       "plz": "8103",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Dietikon",
       "orte": [
@@ -663,7 +662,7 @@
     },
     {
       "plz": "8104",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Dietikon",
       "orte": [
@@ -672,7 +671,7 @@
     },
     {
       "plz": "8105",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -682,7 +681,7 @@
     },
     {
       "plz": "8106",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -691,7 +690,7 @@
     },
     {
       "plz": "8107",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -700,7 +699,7 @@
     },
     {
       "plz": "8108",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -709,7 +708,7 @@
     },
     {
       "plz": "8112",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -718,7 +717,7 @@
     },
     {
       "plz": "8113",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -727,7 +726,7 @@
     },
     {
       "plz": "8114",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -736,7 +735,7 @@
     },
     {
       "plz": "8115",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -799,7 +798,7 @@
     },
     {
       "plz": "8125",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -808,7 +807,7 @@
     },
     {
       "plz": "8126",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -826,7 +825,7 @@
     },
     {
       "plz": "8130",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -903,8 +902,8 @@
     },
     {
       "plz": "8152",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Nansenstrasse",
       "orte": [
         "Glattbrugg",
@@ -914,8 +913,8 @@
     },
     {
       "plz": "8153",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Nansenstrasse",
       "orte": [
         "Rümlang"
@@ -923,7 +922,7 @@
     },
     {
       "plz": "8154",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -932,7 +931,7 @@
     },
     {
       "plz": "8155",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -942,7 +941,7 @@
     },
     {
       "plz": "8156",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -951,7 +950,7 @@
     },
     {
       "plz": "8157",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -960,7 +959,7 @@
     },
     {
       "plz": "8158",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -969,7 +968,7 @@
     },
     {
       "plz": "8162",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -979,7 +978,7 @@
     },
     {
       "plz": "8164",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -988,7 +987,7 @@
     },
     {
       "plz": "8165",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -999,7 +998,7 @@
     },
     {
       "plz": "8166",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -1008,7 +1007,7 @@
     },
     {
       "plz": "8172",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -1017,7 +1016,7 @@
     },
     {
       "plz": "8173",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -1026,7 +1025,7 @@
     },
     {
       "plz": "8174",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -1035,7 +1034,7 @@
     },
     {
       "plz": "8175",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -1044,7 +1043,7 @@
     },
     {
       "plz": "8180",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1053,7 +1052,7 @@
     },
     {
       "plz": "8181",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1062,7 +1061,7 @@
     },
     {
       "plz": "8182",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1071,7 +1070,7 @@
     },
     {
       "plz": "8183",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1080,7 +1079,7 @@
     },
     {
       "plz": "8184",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1089,7 +1088,7 @@
     },
     {
       "plz": "8185",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1098,7 +1097,7 @@
     },
     {
       "plz": "8186",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1107,7 +1106,7 @@
     },
     {
       "plz": "8187",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Regensdorf",
       "orte": [
@@ -1116,7 +1115,7 @@
     },
     {
       "plz": "8192",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1126,7 +1125,7 @@
     },
     {
       "plz": "8193",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1135,7 +1134,7 @@
     },
     {
       "plz": "8194",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1144,7 +1143,7 @@
     },
     {
       "plz": "8195",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1153,7 +1152,7 @@
     },
     {
       "plz": "8196",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1162,7 +1161,7 @@
     },
     {
       "plz": "8197",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1234,8 +1233,8 @@
     },
     {
       "plz": "8302",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Winterthur",
       "orte": [
         "Kloten"
@@ -1243,8 +1242,8 @@
     },
     {
       "plz": "8303",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Winterthur",
       "orte": [
         "Bassersdorf"
@@ -1261,8 +1260,8 @@
     },
     {
       "plz": "8305",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Dietlikon"
@@ -1270,8 +1269,8 @@
     },
     {
       "plz": "8306",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Brüttisellen"
@@ -1279,8 +1278,8 @@
     },
     {
       "plz": "8307",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Effretikon",
@@ -1289,8 +1288,8 @@
     },
     {
       "plz": "8308",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Agasul",
@@ -1299,8 +1298,8 @@
     },
     {
       "plz": "8309",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Winterthur",
       "orte": [
         "Nürensdorf"
@@ -1308,8 +1307,8 @@
     },
     {
       "plz": "8310",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Grafstal",
@@ -1327,8 +1326,8 @@
     },
     {
       "plz": "8312",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Winterberg ZH"
@@ -1336,8 +1335,8 @@
     },
     {
       "plz": "8314",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Kyburg"
@@ -1345,8 +1344,8 @@
     },
     {
       "plz": "8315",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Lindau"
@@ -1354,8 +1353,8 @@
     },
     {
       "plz": "8317",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Tagelswangen"
@@ -1363,8 +1362,8 @@
     },
     {
       "plz": "8320",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Fehraltorf"
@@ -1372,8 +1371,8 @@
     },
     {
       "plz": "8322",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Gündisau",
@@ -1382,8 +1381,8 @@
     },
     {
       "plz": "8325",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Effretikon Dist Ba"
@@ -1391,8 +1390,8 @@
     },
     {
       "plz": "8330",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Pfäffikon ZH"
@@ -1400,8 +1399,8 @@
     },
     {
       "plz": "8331",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Auslikon"
@@ -1409,8 +1408,8 @@
     },
     {
       "plz": "8332",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Rumlikon",
@@ -1419,8 +1418,8 @@
     },
     {
       "plz": "8335",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Hittnau"
@@ -1686,7 +1685,7 @@
     },
     {
       "plz": "8423",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1695,7 +1694,7 @@
     },
     {
       "plz": "8424",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1704,7 +1703,7 @@
     },
     {
       "plz": "8425",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1713,7 +1712,7 @@
     },
     {
       "plz": "8426",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1722,7 +1721,7 @@
     },
     {
       "plz": "8427",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -1733,7 +1732,7 @@
     },
     {
       "plz": "8428",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Bülach",
       "orte": [
@@ -2008,8 +2007,8 @@
     },
     {
       "plz": "8484",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Neschwil",
@@ -2047,8 +2046,8 @@
     },
     {
       "plz": "8489",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Wildberg"
@@ -2204,8 +2203,8 @@
     },
     {
       "plz": "8602",
-      "team": "4A",
-      "teamColor": "#F5DEB3",
+      "team": "4A/B",
+      "teamColor": "#9370DB",
       "rav": "RAV Fehraltorf",
       "orte": [
         "Wangen b. Dübendorf"
@@ -2451,7 +2450,7 @@
     },
     {
       "plz": "8634",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2496,7 +2495,7 @@
     },
     {
       "plz": "8700",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2505,7 +2504,7 @@
     },
     {
       "plz": "8702",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2514,7 +2513,7 @@
     },
     {
       "plz": "8703",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2523,7 +2522,7 @@
     },
     {
       "plz": "8704",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2532,7 +2531,7 @@
     },
     {
       "plz": "8706",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2541,7 +2540,7 @@
     },
     {
       "plz": "8707",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2550,7 +2549,7 @@
     },
     {
       "plz": "8708",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2559,7 +2558,7 @@
     },
     {
       "plz": "8712",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2568,7 +2567,7 @@
     },
     {
       "plz": "8713",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2577,7 +2576,7 @@
     },
     {
       "plz": "8714",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Meilen",
       "orte": [
@@ -2731,7 +2730,7 @@
     },
     {
       "plz": "8901",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Dietikon",
       "orte": [
@@ -2740,7 +2739,7 @@
     },
     {
       "plz": "8902",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Dietikon",
       "orte": [
@@ -2914,7 +2913,7 @@
     },
     {
       "plz": "8951",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Dietikon",
       "orte": [
@@ -2932,7 +2931,7 @@
     },
     {
       "plz": "8953",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Dietikon",
       "orte": [
@@ -2942,7 +2941,7 @@
     },
     {
       "plz": "8954",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Dietikon",
       "orte": [
@@ -2951,7 +2950,7 @@
     },
     {
       "plz": "8955",
-      "team": "4B",
+      "team": "4A/B",
       "teamColor": "#9370DB",
       "rav": "RAV Dietikon",
       "orte": [
