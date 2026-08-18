@@ -9,8 +9,7 @@ const TEAM_COLORS = {
   "3A": "#D3D3D3", // Grau
   "3B": "#FFA500", // Orange
   "3C": "#4169E1", // Blau
-  "4A": "#F5DEB3", // Chamois
-  "4B": "#9370DB", // Violett
+  "4A/B": "#9370DB", // Violett
 };
 
 const ZAHLSTELLE_MAP = {
@@ -20,8 +19,7 @@ const ZAHLSTELLE_MAP = {
   "3A": "006",
   "3B": "007",
   "3C": "008",
-  "4A": "010",
-  "4B": "011"
+  "4A/B": "010"
 };
 
 const plzInput = $("plzInput");
@@ -122,9 +120,29 @@ function onInput(){
 
 function registerSW(){
   if(!("serviceWorker" in navigator)) return;
+
+  let refreshing = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if(!refreshing){
+      refreshing = true;
+      window.location.reload();
+    }
+  });
+
   window.addEventListener("load", async () => {
     try{
-      await navigator.serviceWorker.register("./sw.js");
+      const reg = await navigator.serviceWorker.register("./sw.js");
+
+      const checkForUpdate = () => {
+        if(navigator.onLine && reg){
+          reg.update().catch(() => {});
+        }
+      };
+
+      setInterval(checkForUpdate, 60000);
+
+      window.addEventListener("focus", checkForUpdate);
+      window.addEventListener("online", checkForUpdate);
     }catch(e){
       // SW ist optional; UI bleibt trotzdem nutzbar
     }
