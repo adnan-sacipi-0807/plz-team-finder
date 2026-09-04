@@ -1,5 +1,5 @@
 // Network-first Service Worker
-const CACHE_NAME = "plz-team-finder-v3";
+const CACHE_NAME = "plz-team-finder-v4";
 const ASSETS = [
   "./",
   "./index.html",
